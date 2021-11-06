@@ -5,6 +5,11 @@ body {
 
 #title, .sub_title {
     color: blue;
+    font-weight: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 .sub_title {
