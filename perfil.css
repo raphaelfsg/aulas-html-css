@@ -10,11 +10,24 @@ body {
 .sub_title {
     font-size: 16px;
     font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
 }
 
 .post {
     background: white;
-    padding: 10px;
+    padding: 15px;
     border: 3px solid black;
-    margin: 10px;
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_image {
+    margin-bottom: 15px;
 }
