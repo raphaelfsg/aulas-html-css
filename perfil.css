@@ -36,3 +36,7 @@ body {
 .post_image {
     margin-bottom: 15px;
 }
+
+.contact_list {
+    list-style-type: square;
+}
